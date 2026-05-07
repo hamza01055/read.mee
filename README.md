@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Banner badges -->
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-brightgreen?style=for-the-badge)
 ![AI Engineer](https://img.shields.io/badge/Role-AI%20Engineer-blue?style=for-the-badge&logo=python)
-![Location](https://img.shields.io/badge/📍-Bahawalpur%2C%20Pakistan-lightgrey?style=for-the-badge)
+![Location](https://img.shields.io/badge/Bahawalpur%2C%20Pakistan-lightgrey?style=for-the-badge)
 
 # Hi there, I'm Hamza Shahzad 👋
 
@@ -17,53 +16,40 @@
 
 ## 🧠 About Me
 
-> Passionate AI Engineer with hands-on expertise in Machine Learning, Deep Learning, Computer Vision, and NLP. I build end-to-end AI solutions — from model training to React-powered frontends. Always chasing real-world impact through intelligent systems.
+> Passionate AI Engineer with hands-on expertise in Machine Learning, Deep Learning, Computer Vision, and NLP. Building end-to-end AI solutions — from model training to React-powered frontends. Always chasing real-world impact.
 
-- 🎓 Final year BS Artificial Intelligence student (graduating June 2026)
-- 🤖 Specializing in Computer Vision, NLP, and AI backend systems
-- 🌍 Open to remote full-time, part-time, and freelance AI/ML roles
-- 📬 Reach me at: hamzshahzad454545@gmail.com
+- 🎓 Final year BS Artificial Intelligence (graduating June 2026)
+- 🤖 Specializing in Computer Vision, NLP & AI backend systems
+- 🌍 Open to remote full-time, part-time, and freelance roles
+- 📬 hamzshahzad454545@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category | Tools |
-|----------|-------|
-| **AI / ML** | PyTorch · TensorFlow · Keras · Scikit-learn · XGBoost |
-| **Computer Vision** | YOLOv8 · OpenCV · CNNs |
-| **NLP** | HuggingFace Transformers · BERT · LangChain · spaCy · NLTK |
-| **Programming** | Python (Expert) · C++ (Intermediate) · Java (Intermediate) |
-| **Web & Dev** | React.js · REST APIs · SQL · Git & GitHub |
+| AI / ML | Computer Vision | NLP | Dev |
+|---------|----------------|-----|-----|
+| PyTorch · TensorFlow · Keras | YOLOv8 · OpenCV · CNNs | HuggingFace · BERT · LangChain | Python · React.js · REST API |
+| Scikit-learn · XGBoost | | spaCy · NLTK | SQL · Git & GitHub |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🏙 Smart City Issue Detection & Reporting System *(Final Year Project)*
-Full-stack smart city platform using **YOLOv8** to detect potholes, garbage & broken streetlights from live camera feeds. Includes a city manager dashboard with location tagging, status tracking & automated authority alerts.
-
-`Python` `YOLOv8` `React.js` `REST API` `SQL` `Deep Learning`
-
----
+### 🏙 Smart City Issue Detection & Reporting *(FYP)*
+YOLOv8 real-time detection of potholes, garbage & broken streetlights. Full city manager dashboard with location tagging, status tracking & automated authority alerts.
+`YOLOv8` `React.js` `Python` `REST API` `SQL` `Deep Learning`
 
 ### 🤖 AI-Powered Chatbot with NLP
-Intelligent chatbot using **HuggingFace Transformers** & **LangChain** with intent classification and context-aware dialogue. Deployed as a REST API with a React frontend.
-
+HuggingFace Transformers + LangChain chatbot with intent classification & context-aware dialogue. REST API + React frontend.
 `Python` `HuggingFace` `LangChain` `React.js`
 
----
-
 ### 📸 Computer Vision Attendance System
-Real-time face recognition system achieving **95%+ accuracy** on a custom student dataset. Fully automated attendance marking and report generation.
-
+Real-time face recognition with **95%+ accuracy**. Fully automated attendance marking and reporting.
 `Python` `OpenCV` `Deep Learning`
 
----
-
-### 📊 Sentiment Analysis & Text Classifier (NLP)
-Multi-class text classification with **fine-tuned BERT**. Full preprocessing pipeline with spaCy & NLTK, and interactive insight dashboards.
-
+### 📊 Sentiment Analysis & Text Classifier
+Fine-tuned BERT for multi-class classification. Full spaCy + NLTK preprocessing with interactive dashboards.
 `Python` `BERT` `spaCy` `NLTK`
 
 ---
@@ -72,22 +58,22 @@ Multi-class text classification with **fine-tuned BERT**. Full preprocessing pip
 
 <div align="center">
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza01055&show_icons=true&theme=github_dark&hide_border=true)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza01055&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza01055&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hamza01055&theme=github-dark-blue&hide_border=true)
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-hamzshahzad454545@gmail.com-red?style=flat-square&logo=gmail)](mailto:hamzshahzad454545@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Hamza01055-black?style=flat-square&logo=github)](https://github.com/Hamza01055)
 [![Instagram](https://img.shields.io/badge/Instagram-@hamm__xa-E4405F?style=flat-square&logo=instagram)](https://instagram.com/hamm_xa)
-[![Phone](https://img.shields.io/badge/Phone-%2B92%2003207074141-green?style=flat-square&logo=whatsapp)](tel:+923207074141)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B92%2003207074141-25D366?style=flat-square&logo=whatsapp)](tel:+923207074141)
 
 ---
 
-<div align="center">
-  <i>"Building intelligent systems that solve real-world problems."</i>
-</div>
+<div align="center"><i>"Building intelligent systems that solve real-world problems."</i></div>
