@@ -1,29 +1,93 @@
-# 🤖 Hamza | AI Automation & Workflow Specialist
+<div align="center">
 
-### BSAI '26 | Python Developer | AI-Powered Web & App Solutions
+<!-- Banner badges -->
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-brightgreen?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/Role-AI%20Engineer-blue?style=for-the-badge&logo=python)
+![Location](https://img.shields.io/badge/📍-Bahawalpur%2C%20Pakistan-lightgrey?style=for-the-badge)
 
-I specialize in bridging the gap between raw data and intelligent automation. My focus is on building scalable AI agents, automated workflows, and high-performance cross-platform apps.
+# Hi there, I'm Hamza Shahzad 👋
 
----
+### AI Engineer · ML Developer · Full-Stack AI Developer
 
-### 🛠 My Technical Arsenal
+*Final-year BS Artificial Intelligence · Islamia University of Bahawalpur (Jun 2026)*
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-- **Frameworks:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-- **AI/ML:** PyTorch, Scikit-Learn, OpenCV, NLP, Data Mining
-- **Tools:** Git, Docker, Firebase, HuggingFace
-
----
-
-### 🚀 Featured Projects
-- **[safe city ]**: An AI-powered automation script that [Result: e.g., saves 10 hours/week].
-- **[ Profilio]**: A Flutter mobile application integrated with [Specific AI Feature].
+</div>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hamzashahzad-ai/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_URL](https://www.instagram.com/hamm_xa/?__pwa=1#))
+## 🧠 About Me
+
+> Passionate AI Engineer with hands-on expertise in Machine Learning, Deep Learning, Computer Vision, and NLP. I build end-to-end AI solutions — from model training to React-powered frontends. Always chasing real-world impact through intelligent systems.
+
+- 🎓 Final year BS Artificial Intelligence student (graduating June 2026)
+- 🤖 Specializing in Computer Vision, NLP, and AI backend systems
+- 🌍 Open to remote full-time, part-time, and freelance AI/ML roles
+- 📬 Reach me at: hamzshahzad454545@gmail.com
 
 ---
-*“Turning complex data into simple, automated solutions.”*
+
+## 🛠 Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **AI / ML** | PyTorch · TensorFlow · Keras · Scikit-learn · XGBoost |
+| **Computer Vision** | YOLOv8 · OpenCV · CNNs |
+| **NLP** | HuggingFace Transformers · BERT · LangChain · spaCy · NLTK |
+| **Programming** | Python (Expert) · C++ (Intermediate) · Java (Intermediate) |
+| **Web & Dev** | React.js · REST APIs · SQL · Git & GitHub |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏙 Smart City Issue Detection & Reporting System *(Final Year Project)*
+Full-stack smart city platform using **YOLOv8** to detect potholes, garbage & broken streetlights from live camera feeds. Includes a city manager dashboard with location tagging, status tracking & automated authority alerts.
+
+`Python` `YOLOv8` `React.js` `REST API` `SQL` `Deep Learning`
+
+---
+
+### 🤖 AI-Powered Chatbot with NLP
+Intelligent chatbot using **HuggingFace Transformers** & **LangChain** with intent classification and context-aware dialogue. Deployed as a REST API with a React frontend.
+
+`Python` `HuggingFace` `LangChain` `React.js`
+
+---
+
+### 📸 Computer Vision Attendance System
+Real-time face recognition system achieving **95%+ accuracy** on a custom student dataset. Fully automated attendance marking and report generation.
+
+`Python` `OpenCV` `Deep Learning`
+
+---
+
+### 📊 Sentiment Analysis & Text Classifier (NLP)
+Multi-class text classification with **fine-tuned BERT**. Full preprocessing pipeline with spaCy & NLTK, and interactive insight dashboards.
+
+`Python` `BERT` `spaCy` `NLTK`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza01055&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza01055&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-hamzshahzad454545@gmail.com-red?style=flat-square&logo=gmail)](mailto:hamzshahzad454545@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza01055-black?style=flat-square&logo=github)](https://github.com/Hamza01055)
+[![Instagram](https://img.shields.io/badge/Instagram-@hamm__xa-E4405F?style=flat-square&logo=instagram)](https://instagram.com/hamm_xa)
+[![Phone](https://img.shields.io/badge/Phone-%2B92%2003207074141-green?style=flat-square&logo=whatsapp)](tel:+923207074141)
+
+---
+
+<div align="center">
+  <i>"Building intelligent systems that solve real-world problems."</i>
+</div>
