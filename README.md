@@ -1,24 +1,16 @@
-# ============================================================
-#  HAMZA SHAHZAD — COMPLETE GITHUB PROFILE SETUP
-#  Follow the 3 steps below in order. Takes ~5 minutes.
-# ============================================================
-
-# ─────────────────────────────────────────────
-# STEP 1 ▸ PASTE THIS INTO YOUR README.md
-#   Repo: github.com/Hamza01055/Hamza01055
-#   File: README.md  →  Edit  →  Paste below  →  Commit
-# ─────────────────────────────────────────────
-
 <div align="center">
 
+<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2f47,100:0d47a1&height=120&section=header&text=Hamza%20Shahzad&fontSize=40&fontColor=58a6ff&fontAlignY=65&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full-Stack%20AI&descAlignY=85&descSize=16&descColor=8b949e"/>
 
+<!-- Profile views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=Hamza01055&style=for-the-badge&color=0d47a1&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Hamza01055?style=for-the-badge&color=238636&labelColor=0d1117&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Remote%20%7C%20Freelance-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 <br/><br/>
 
+<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=AI+Engineer+%7C+ML+Developer+%F0%9F%A4%96;Computer+Vision+%7C+YOLOv8+%7C+OpenCV+%F0%9F%91%81;NLP+%7C+BERT+%7C+HuggingFace+%F0%9F%A7%A0;Full-Stack+AI+%7C+React.js+%7C+Python+%F0%9F%90%8D;Open+to+Remote+%26+Freelance+Work+%F0%9F%8C%8D" alt="Typing SVG"/>
 
 </div>
@@ -160,17 +152,7 @@ Multi-class text classification with **fine-tuned BERT**. Full preprocessing pip
 
 </div>
 
----
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hamza01055/Hamza01055/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -205,81 +187,3 @@ Multi-class text classification with **fine-tuned BERT**. Full preprocessing pip
 ⭐ **If you like my work, consider starring my repositories!** ⭐
 
 </div>
-
-
-# ─────────────────────────────────────────────
-# STEP 2 ▸ ADD SNAKE ANIMATION (AUTO-UPDATES EVERY 12H)
-#
-#   In your Hamza01055 repo, create this file:
-#   Path: .github/workflows/snake.yml
-#   Paste EVERYTHING between the dashes below:
-# ─────────────────────────────────────────────
-
-# --- PASTE INTO .github/workflows/snake.yml ---
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-# --- END OF snake.yml ---
-
-
-# ─────────────────────────────────────────────
-# STEP 3 ▸ RUN THE SNAKE WORKFLOW
-#
-#   1. Go to your Hamza01055 repo on GitHub
-#   2. Click the "Actions" tab
-#   3. Click "Generate Snake Animation" on the left
-#   4. Click "Run workflow" → "Run workflow" (green button)
-#   5. Wait ~60 seconds → snake SVG is generated!
-#   6. Snake will now auto-update every 12 hours forever.
-# ─────────────────────────────────────────────
-
-
-# ============================================================
-#  DONE! Your profile now has:
-#
-#  ✅ Animated waving header banner
-#  ✅ Typing SVG cycling your roles
-#  ✅ Profile view counter (live)
-#  ✅ Follower badge (live)
-#  ✅ Python code block "About Me"
-#  ✅ Full tech stack with icon badges
-#  ✅ 2-column project table
-#  ✅ GitHub Stats card (live)
-#  ✅ Streak stats card (live)
-#  ✅ Top languages card (live)
-#  ✅ GitHub Trophies (live)
-#  ✅ Snake eating contribution graph (animated, auto-updates)
-#  ✅ Activity graph (live)
-#  ✅ LinkedIn + Gmail + GitHub + Instagram + WhatsApp buttons
-#  ✅ Animated footer wave
-# ============================================================
