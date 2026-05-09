@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
 hamza = {
