@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
+<!-- Animated header banner  -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2f47,100:0d47a1&height=120&section=header&text=Hamza%20Shahzad&fontSize=40&fontColor=58a6ff&fontAlignY=65&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full-Stack%20AI&descAlignY=85&descSize=16&descColor=8b949e"/>
 
 <!-- Profile views + Followers -->
