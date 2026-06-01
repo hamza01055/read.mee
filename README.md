@@ -13,6 +13,7 @@
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=AI+Engineer+%7C+ML+Developer+%F0%9F%A4%96;Computer+Vision+%7C+YOLOv8+%7C+OpenCV+%F0%9F%91%81;NLP+%7C+BERT+%7C+HuggingFace+%F0%9F%A7%A0;Full-Stack+AI+%7C+React.js+%7C+Python+%F0%9F%90%8D;Open+to+Remote+%26+Freelance+Work+%F0%9F%8C%8D" alt="Typing SVG"/>
 
+
 </div>
 
 ---
