@@ -3,7 +3,7 @@
 <!-- Animated header banner  -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2f47,100:0d47a1&height=120&section=header&text=Hamza%20Shahzad&fontSize=40&fontColor=58a6ff&fontAlignY=65&animation=fadeIn&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full-Stack%20AI&descAlignY=85&descSize=16&descColor=8b949e"/>
 
-<!-- Profile views + Followers -->
+<!-- Profile views + Followers -->   
 <img src="https://komarev.com/ghpvc/?username=Hamza01055&style=for-the-badge&color=0d47a1&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Hamza01055?style=for-the-badge&color=238636&labelColor=0d1117&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Remote%20%7C%20Freelance-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
